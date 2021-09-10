@@ -5972,22 +5972,22 @@ pinkbg color-----------> rgb(253, 229, 247);
                     /* background-color: rgb(233, 209, 255); */
                     border-color: #000;
                 }
-                
                 .navbar-inverse .navbar-nav>li>a,
                 .navbar-inverse .navbar-text {
                     /* color: #ffffff; */
-                    color: #000;
+                    color: rgb(255, 255, 255);
                 }
                 
                 .navbar-inverse .navbar-nav>li>a :hover,
                 .navbar-inverse .navbar-text {
-                    color: black;
+                    color: white;
                 }
                 
                 .carousel-inner {
                     text-align: justify;
                     text-justify: inter-word;
                 }
+/*                 
                 /* nav navbar-nav  */
                 /* #navbar-collapse nav .home>a {
                     pointer-events: none;
